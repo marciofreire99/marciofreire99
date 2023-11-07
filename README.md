@@ -8,10 +8,10 @@
 
 <div align="center"> 
    <a href = "mailto:marciofreire99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue">
   </a>
   </a> 
    <a href = "https://marciofreire99.github.io/portifolio-marcio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-ffffff?style=for-the-badge&logo=circle&logoColor=purple">
+    <img src="https://img.shields.io/badge/-Website-ffffff?style=for-the-badge&logo=circle&logoColor=blue">
 </a>
 </div>
