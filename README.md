@@ -3,7 +3,7 @@
 </div>
 <div align="center">
  
-   <p>depois eu vejo</p>
+   <p>Seja bem-vindo ao meu perfil!</p>
 </div>
 
 <div align="center"> 
